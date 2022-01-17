@@ -1,0 +1,15 @@
+
+
+body {
+    background-color: white;
+    top: 0;
+    margin: 0;
+    padding: 150px;
+    align-items: center;
+}
+
+
+
+ main .container {
+ background-image: url(https://www.diariodecuyo.com.ar/__export/1601298256379/sites/diariodecuyo/img/2020/09/28/frutas_y_verduras.jpg);
+}

@@ -1,0 +1,128 @@
+body {
+    background-color: white;
+}
+
+a {
+    background-color: rgba(129, 133, 127, 0.692);
+    border-radius: 10%; 
+} 
+ .geo{
+    background-color: white !important; 
+    color: rgb(247, 117, 10);
+}
+
+h3 {
+ font-size: 25px;
+ font-family: black italy;
+ color: rgb(247, 117, 10);
+ position: absolute;
+ left: 20px;
+ 
+}
+
+.titulomodal {
+    color: black !important;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+
+}
+
+h4 {
+    font-size: xx-large;
+    position: absolute;
+    left: 15%;
+    color: rgb(252, 249, 249);
+    top: 100px;
+ }
+
+header {
+    padding: 20px 0 0 0;
+    background-color: white;
+    text-align: center;
+}
+
+
+.card {
+   align-items: center;
+    background-color: #dab27e9c;
+    border-radius: 5px;
+    
+}
+
+.card-img-top{
+    width: 250px;
+    height: 250px;
+    border-radius: 5px;
+    top: 10px;
+}
+
+.card-title {
+   font-weight: bold;
+   color: rgb(16, 24, 1);
+}
+
+
+ .card-text {
+    font-weight: bold;
+   color: rgb(16, 24, 1);
+  text-decoration: underline;
+  font-size: large;
+ }
+
+
+.Banner {
+
+    margin-top: 5%;
+    position: absolute;
+    left: 20px;
+    right: 20px;
+    
+}
+
+.Container2 {
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    background-color: whitesmoke;
+    margin-top: 5%;
+     height: 400px; 
+    width: 1350px;
+    display: flex;
+    
+}
+
+
+.Icono1 {
+    position: absolute;
+    right: 90px;
+    color: rgb(247, 120, 17);
+    font-size: 20px !important;
+}
+
+ .submenu {
+    position: absolute;
+    right: 30px;
+    text-align: center;
+} 
+
+.submenu #Carrito {
+     display: none; 
+    background-color: white; 
+    min-width: 440px;
+    height: 350px;
+    border-radius: 5%;
+} 
+
+.submenu:hover #Carrito {
+ display: block; 
+ position: absolute;
+ right: 0;
+ top: 100%;
+ z-index: 1; 
+
+} 
+
+
+
+
+

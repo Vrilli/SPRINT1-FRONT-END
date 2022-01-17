@@ -1,0 +1,151 @@
+{
+  "Productos": [
+    {
+      "precio": 500,
+      "id": 1,
+      "title": "Limon",
+      "beneficios": " Hidratar nuestro organismo, Ayudar a la pérdida de peso,Conseguir un efecto diurético,Limpiar la piel,Proporcionar energía y mejora el estado de ánimo,Refrescar el aliento,Combatir el estreñimiento,Reducir las infecciones urinarias.",
+      "thumbnailUrl": "https://res.cloudinary.com/vrilli/image/upload/v1641499906/Limon_jab9wv.jpg"
+    },
+    {
+      "precio": 300,
+      "id": 2,
+      "beneficios": "Protege la vista. La vitamina A mejora nuestra visión, ayuda a proteger nuestros ojos de enfermedades degenerativas o ceguera nocturna.",
+      "title": "Tomate",
+      "thumbnailUrl": "https://res.cloudinary.com/vrilli/image/upload/v1641499906/Tomate_ktswqy.jpg"
+    },
+    {
+      "precio": 100,
+      "id": 3,
+      "beneficios": "Ayuda en casos de enfermedades hepáticas, quemaduras, obesidad, raquitismo, ayuda a combatir cáncer de mama, de esófago, de matriz, de colon, de estómago, de páncreas y próstata. También se utiliza para prevenir la diabetes, enfermedades cardiovasculares, cataratas y asma.",
+      "title": "jitomate",
+      "thumbnailUrl": "https://res.cloudinary.com/vrilli/image/upload/v1641499906/Jitomate_Bola_mvwqsz.jpg"
+    },
+    {
+      "precio": 520,
+      "id": 4,
+      "beneficios": "La manzana tiene mucha fibra de cada 100 gramos de manzana, 2,4 son de fibra. Protege el corazón,Regula el intestino,Activa el cerebro,Blanquea los dientes y contiene Mucha vitamina.",
+      "title": "Manzana Golden",
+      "thumbnailUrl": "https://res.cloudinary.com/vrilli/image/upload/v1641499906/Manzana_Golden_vpyhan.jpg"
+    },
+    {
+      "precio": 180,
+      "id": 5,
+      "beneficios": "Contiene elevadas cantidades de calcio, hierro y fibra,por su abundante contenido de vitamina E, es un excelente antioxidante y Tiene propiedades antiinflamatorias.",
+      "title": "Mc Cormick Mayonesa",
+      "thumbnailUrl": "https://res.cloudinary.com/vrilli/image/upload/v1641499906/Mc_Cormick_Mayonesa_cpwdb7.jpg"
+    },
+    {
+      "precio": 150,
+      "id": 6,
+      "beneficios": "La naranja es una de las frutas con mayor aporte en vitamina C, además de vitamina A, folatos fibra y potasio. Es buena para el estreñimiento y ayuda a combatir la anemia.",
+      "title": "Naranja",
+      "thumbnailUrl": "https://res.cloudinary.com/vrilli/image/upload/v1641499906/Naranja_b0nnm0.jpg"
+    },
+    {
+      "precio": 110,
+      "id": 7,
+      "beneficios": "Previene el cáncer de colon, controla el colesterol, Previene la diabetes, Combate la obesidad,Nos mantiene hidratados, y Ayuda a mejorar los problemas de gastritis y úlceras.",
+      "title": "Nopal",
+      "thumbnailUrl": "https://res.cloudinary.com/vrilli/image/upload/v1641499906/Nopal_upktng.jpg"
+    },
+    {
+      "precio": 120,
+      "id": 8,
+      "beneficios": " El consumo de fibra tiene beneficios a la salud, previene el estreñimiento, disminuye los niveles de glucosa, triglicéridos y colesterol sanguíneos, y brinda saciedad por más tiempo.",
+      "title": "Pan Bimbo",
+      "thumbnailUrl": "https://res.cloudinary.com/vrilli/image/upload/v1641499906/Pan_Bimbo_uoksv9.jpg"
+    },
+    {
+      "precio": 205,
+      "id": 9,
+      "beneficios": "La carne del pavo es fuente de proteínas, vitaminas del grupo del complejo B como la B1, B3, B5, B6, biotina, B12 y el ácido fólico, y de minerales como el fósforo, el potasio, el magnesio, el hierro y el cinc.",
+      "title": "Pechuga de pavo",
+      "thumbnailUrl": "https://res.cloudinary.com/vrilli/image/upload/v1641499906/Pechuga_de_pavo_qceuml.jpg"
+    },
+    {
+      "precio": 120,
+      "id": 11,
+      "beneficios": "El tomate verde contiene vitamina C. Este nutriente estimula el sistema inmune, haciéndolo más fuerte. También acelera la producción de glóbulos rojos",
+      "title": "Tomate verde",
+      "thumbnailUrl": "https://res.cloudinary.com/vrilli/image/upload/v1641499906/Tomate_verde_ky61wu.jpg"
+    },
+    {
+      "precio": 250,
+      "id": 12,
+      "beneficios": " Es una fruta rica en vitaminas C, E y K y minerales como el potasio y magnesio, que ayudan a hidratar y mantener la salud de la piel y del cabello.",
+      "title": "Aguacate",
+      "thumbnailUrl": "https://res.cloudinary.com/vrilli/image/upload/v1641499905/Aguacate_gcxqmd.jpg"
+    },
+    {
+      "precio": 500,
+      "id": 13,
+      "beneficios": "Te mantiene despierto, concentrando y alerta. ",
+      "title": "Cocacola sin azucar",
+      "thumbnailUrl": "https://res.cloudinary.com/vrilli/image/upload/v1641499905/Cocacola_sin_azucar_hxwufn.jpg"
+    },
+    {
+      "precio": 300,
+      "id": 14,
+      "beneficios": "Puede mejorar ciertos problemas digestivos graves y Te ayuda a mantenerte concentrado",
+      "title": "Cocacola",
+      "thumbnailUrl": "https://res.cloudinary.com/vrilli/image/upload/v1641499906/Cocacola_as13vl.jpg"
+    },
+    {
+      "precio": 800,
+      "id": 15,
+      "beneficios": "Prevenir las caries, Combatir la placa, Remover las manchas de los dientes, Prevenir problemas de encías causados por bacterias y Neutralizar las bacterias del mal aliento.",
+      "title": "Colgate",
+      "thumbnailUrl": "https://res.cloudinary.com/vrilli/image/upload/v1641499906/Colgate_gbg8x2.jpg"
+    },
+    {
+      "precio": 400,
+      "id": 15,
+      "beneficios": "Neutraliza malos olores, virus y bacterias*. Fragancia hasta por 24 horas. Limpia efectivamente.",
+      "title": "Fabuloso",
+      "thumbnailUrl": "https://res.cloudinary.com/vrilli/image/upload/v1641499905/Fabuloso_miukvh.jpg"
+    },
+    {
+      "precio": 654,
+      "id": 16,
+      "beneficios": "Contribuye a la prevención de enfermedades cardiovasculares, rico en vitaminas y minerales, contiene un alto porcentaje de agua y Favorece el desarrollo del cerebro.",
+      "title": "Huevos",
+      "thumbnailUrl": "https://res.cloudinary.com/vrilli/image/upload/v1641499905/Huevos_urdem6.jpg"
+    },
+    {
+      "precio": 950,
+      "title": "Cebolla Blanca",
+      "beneficios": "contiene azúcar natural, vitaminas A, B6, C y E. También minerales como el sodio, potasio, hierro y fibra alimentaria. Además son un buena fuente de ácido fólico. ",
+      "thumbnailUrl": "https://jumbocolombiafood.vteximg.com.br/arquivos/ids/197929-750-750/185.jpg?v=636243952579870000",
+      "id": 17
+    },
+    {
+      "precio": 800,
+      "title": "Zanahoria",
+      "beneficios": "Por su alto contenido en fibra previenen el estreñimiento. Además, calman las molestias gástricas y el exceso de acidez.",
+      "thumbnailUrl": "https://cdn2.salud180.com/sites/default/files/field/image/2019/04/propiedades-zanahoria.jpg",
+      "id": 18
+    },
+    {
+      "precio": 680,
+      "title": "Manzana Roja",
+      "beneficios": "Protege el corazón, Mejora los dientes, Regula el intestino y Como presenta poco azúcar reduce el colesterol.",
+      "thumbnailUrl": "https://elegifruta.com.ar/onepage/wp-content/uploads/2017/07/manzana_roja.jpg",
+      "id": 19
+    },
+    {
+      "precio": 900,
+      "title": "Pera",
+      "beneficios": "Previene enfermedades crónicas inflamatorias del intestino y metabólicas.",
+      "thumbnailUrl": "https://kanasto.co/host/micanasta/images/producto/1621743737_pera.jpg",
+      "id": 20
+    },
+    {
+      "precio": 1000,
+      "title": "Uvas",
+      "beneficios": "Son ricas en antioxidantes, su índice glucémico no es alto, sino medio; son ricas en fibra en hidratos de carbono (17%) de rápida asimilación; contienen vitamina C.",
+      "thumbnailUrl": "http://www.frutaslogrono.com/fotos/noticias/octubre%20mes%20para%20disfrutas%20uvas.jpg",
+      "id": 21
+    }
+  ]
+}
